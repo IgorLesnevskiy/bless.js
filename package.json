@@ -30,7 +30,7 @@
   "dependencies": {
     "commander": "1.2.0",
     "colors": "0.6.x",
-    "css": "1.4.0"
+    "css": "1.6.0"
   },
   "devDependencies": {
     "chai": "1.9.1",
